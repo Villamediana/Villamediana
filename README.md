@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2600&pause=1000&color=8B5CF6&center=true&vCenter=true&width=560&lines=oi%2C+eu+sou+o+Miguel;fa%C3%A7o+os+apps+que+eu+mesmo+uso" alt="oi, eu sou o Miguel" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2600&pause=1000&color=8B5CF6&center=true&vCenter=true&width=560&lines=oi%2C+eu+sou+o+Miguel;o+futuro+da+IA+%C3%A9+na+sua+casa;parei+de+pagar+apps+e+fiz+os+meus;meus+dados+ficam+comigo;se+n%C3%A3o+existe+do+meu+jeito%2C+eu+fa%C3%A7o" alt="oi, eu sou o Miguel" />
 
 <br>
 
