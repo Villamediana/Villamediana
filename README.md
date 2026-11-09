@@ -4,8 +4,8 @@
 
 <br>
 
-São Paulo. Faço app pra resolver coisa do meu dia a dia,<br>
-e gosto quando ele faz uma coisa só, bem feita.
+A IA ajuda muito, mas também programo na mão porque gosto.<br>
+Moro em São Paulo. A paternidade me ensinou que fazer é fácil, manter é outro nível.
 
 </div>
 
