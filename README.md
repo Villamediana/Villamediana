@@ -13,9 +13,9 @@ A paternidade me ensinou que fazer é fácil, manter é outro nível.
 
 |   |   |
 |---|---|
-| **[AI Score Transcriber](https://github.com/Villamediana/AI-Score-Transcriber)**<br><sub>joga uma música e sai a partitura · [testar](https://piano.simplyonegoal.com)</sub> | **[Colo](https://github.com/Villamediana/Own-Computer-Use)**<br><sub>você fala e o Windows faz</sub> |
-| **[Launcher](https://github.com/Villamediana/Launcher)**<br><sub>tela inicial calma, desenha pra abrir</sub> | **[FreeSong](https://github.com/Villamediana/FreeSong)**<br><sub>música sem conta, sem anúncio, sem assinatura</sub> |
-| **[Kindle Extractor](https://github.com/Villamediana/Kindle-Extractor)**<br><sub>seus livros do Kindle em texto</sub> | **Luna**<br><sub>a assistente que mora no WhatsApp da família · <i>privado</i></sub> |
+| **[AI Score Transcriber](https://github.com/Villamediana/AI-Score-Transcriber)**<br><sub>transforma som em partitura · [testar](https://piano.simplyonegoal.com)</sub> | **[Colo](https://github.com/Villamediana/Own-Computer-Use)**<br><sub>computer use open-source · Windows, e em breve Linux e Android</sub> |
+| **[Launcher](https://github.com/Villamediana/Launcher)**<br><sub>seu launcher Android open-source</sub> | **[FreeSong](https://github.com/Villamediana/FreeSong)**<br><sub>seu Spotify open-source</sub> |
+| **[Kindle Extractor](https://github.com/Villamediana/Kindle-Extractor)**<br><sub>seus livros do Kindle em texto</sub> | **Luna**<br><sub>assistente de IA no WhatsApp · <i>privado</i></sub> |
 | **[Uns Carrinhos Smart](https://github.com/Villamediana/Uns-Carrinhos-Smart)**<br><sub>carrinhos que aprendem a dirigir sozinhos</sub> |   |
 
 <br>
