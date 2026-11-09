@@ -13,7 +13,7 @@ Gosto de app que faz uma coisa bem feita e sai da frente.
 
 |   |   |
 |---|---|
-| 🎹 **[AI Score Transcriber](https://github.com/Villamediana/AI-Score-Transcriber)**<br><sub>joga uma música, sai a partitura · [testar](https://piano.simplyonegoal.com)</sub> | 🌊 **[Colo](https://github.com/Villamediana/Own-Computer-Use)**<br><sub>você fala, o Windows faz</sub> |
+| 🎹 **[AI Score Transcriber](https://github.com/Villamediana/AI-Score-Transcriber)**<br><sub>joga uma música, sai a partitura · [testar](https://piano.simplyonegoal.com)</sub> | 🌊 **Colo**<br><sub>você fala, o Windows faz · <i>privado</i></sub> |
 | 🌿 **[Launcher](https://github.com/Villamediana/Launcher)**<br><sub>tela inicial calma — desenhe pra abrir</sub> | 🎧 **[FreeSong](https://github.com/Villamediana/FreeSong)**<br><sub>música sem conta, sem anúncio, sem assinatura</sub> |
 | 📚 **[Kindle Extractor](https://github.com/Villamediana/Kindle-Extractor)**<br><sub>seus livros do Kindle, em texto</sub> | 🌙 **Luna**<br><sub>a assistente que mora no WhatsApp da família · <i>privado</i></sub> |
 
