@@ -5,7 +5,7 @@
 <br>
 
 A IA ajuda muito, mas programo na mão porque gosto.<br>
-Moro em São Paulo. A paternidade me ensinou que fazer é fácil, manter é outro nível.
+A paternidade me ensinou que fazer é fácil, manter é outro nível.
 
 </div>
 
