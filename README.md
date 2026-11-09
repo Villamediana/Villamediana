@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2600&pause=1000&color=8B5CF6&center=true&vCenter=true&width=560&lines=oi%2C+eu+sou+o+Miguel+%F0%9F%91%8B;fa%C3%A7o+os+apps+que+eu+mesmo+uso;meu+servidor+%C3%A9+um+celular+%F0%9F%93%B1;sim%2C+de+verdade." alt="oi, eu sou o Miguel" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2600&pause=1000&color=8B5CF6&center=true&vCenter=true&width=560&lines=oi%2C+eu+sou+o+Miguel;fa%C3%A7o+os+apps+que+eu+mesmo+uso" alt="oi, eu sou o Miguel" />
 
 <br>
 
-São Paulo · quase tudo que eu tenho no ar roda num Android, dentro do Termux.<br>
-Gosto de app que faz uma coisa bem feita e sai da frente.
+São Paulo. Faço app pra resolver coisa do meu dia a dia,<br>
+e gosto quando ele faz uma coisa só, bem feita.
 
 </div>
 
@@ -13,9 +13,9 @@ Gosto de app que faz uma coisa bem feita e sai da frente.
 
 |   |   |
 |---|---|
-| 🎹 **[AI Score Transcriber](https://github.com/Villamediana/AI-Score-Transcriber)**<br><sub>joga uma música, sai a partitura · [testar](https://piano.simplyonegoal.com)</sub> | 🌊 **Colo**<br><sub>você fala, o Windows faz · <i>privado</i></sub> |
-| 🌿 **[Launcher](https://github.com/Villamediana/Launcher)**<br><sub>tela inicial calma — desenhe pra abrir</sub> | 🎧 **[FreeSong](https://github.com/Villamediana/FreeSong)**<br><sub>música sem conta, sem anúncio, sem assinatura</sub> |
-| 📚 **[Kindle Extractor](https://github.com/Villamediana/Kindle-Extractor)**<br><sub>seus livros do Kindle, em texto</sub> | 🌙 **Luna**<br><sub>a assistente que mora no WhatsApp da família · <i>privado</i></sub> |
+| **[AI Score Transcriber](https://github.com/Villamediana/AI-Score-Transcriber)**<br><sub>joga uma música e sai a partitura · [testar](https://piano.simplyonegoal.com)</sub> | **[Colo](https://github.com/Villamediana/Own-Computer-Use)**<br><sub>você fala e o Windows faz</sub> |
+| **[Launcher](https://github.com/Villamediana/Launcher)**<br><sub>tela inicial calma, desenha pra abrir</sub> | **[FreeSong](https://github.com/Villamediana/FreeSong)**<br><sub>música sem conta, sem anúncio, sem assinatura</sub> |
+| **[Kindle Extractor](https://github.com/Villamediana/Kindle-Extractor)**<br><sub>seus livros do Kindle em texto</sub> | **Luna**<br><sub>a assistente que mora no WhatsApp da família · <i>privado</i></sub> |
 
 <br>
 
@@ -25,6 +25,6 @@ Gosto de app que faz uma coisa bem feita e sai da frente.
 
 <br><br>
 
-<sub>se algo daqui te serviu, me conta 🙂</sub>
+<sub>se algo daqui te serviu, me conta</sub>
 
 </div>
